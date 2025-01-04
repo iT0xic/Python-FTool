@@ -1,5 +1,6 @@
 # Python-FTool
 Simple flyff ftool written in python :)
+
 Its listening on main window to a specific keystroke and presses the a key on the secondary client.
 
 All you need to do is replace the listening keypress listener(line 48) and the key to press(lines 49-50)
