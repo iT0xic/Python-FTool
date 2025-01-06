@@ -18,3 +18,15 @@ listens to `F1` on main client and presses `F1` on attached client
             win32gui.SendMessage(client_id, win32con.WM_KEYUP, KEYBD_CONSTS['F1'], 0)
 ```
 listens to `F9` on main client and presses `F1` on attached client
+
+## Python installation:
+
+Download and install latest stable python3
+https://www.python.org/downloads/windows/
+
+Open cmd(Winkey+R -> cmd -> enter) and run this line:
+```
+pip install pywin32
+```
+
+You are all set!
