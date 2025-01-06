@@ -30,7 +30,4 @@ Open cmd(Winkey+R -> cmd -> enter) and run this line:
 ```
 pip install pywin32
 ```
-
 You are all set!
-=======
->>>>>>> 30d2ad26ce70dc90000b169f884044c4a514c972
